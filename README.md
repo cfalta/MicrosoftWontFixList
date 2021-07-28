@@ -2,6 +2,7 @@
 
 A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list.
 <br>
+<br>
 LPE = Local Privilege Escalation<br>
 DPE = Domain-wide Privilege Escalation<br>
 RCE = Remote Code Execution<br>
