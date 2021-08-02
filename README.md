@@ -1,5 +1,9 @@
-# Microsoft Wont-Fix-List
+# Microsoft Wont-Fix-List (July 2021 Edition)
+<br>
 
+**02.08.2021 - Update: thank you all for your feedback :-) This list was intended to be a summary of what happend in July 2021 and I decided I'll keep it that way, because I honestly think I don't have the energy to maintain an up-to-date list of ALL won't fixes Microsoft has to offer. So I'll keep this remark here for clarity and change the description.**
+
+<br>
 A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list.
 <br>
 <br>
